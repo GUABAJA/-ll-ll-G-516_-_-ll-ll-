@@ -1,10 +1,10 @@
-# XMARTY_MUSIC
-<h2 align="centre">🎵 xᴍᴀʀᴛʏ ᴍᴜꜱɪᴄ ʙᴏᴛ 🎵</h2>
+# GJ516 LOVER'S
+<h2 align="centre">ııllıllı ♥️ ➤⃝Gᴊ516_ᴍᴜꜱɪᴄ_ʙᴏᴛ ♥️ ıllıllı</h2>
 
 ### ᴀ ʙᴏᴛ ᴛʜᴀᴛ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜꜱɪᴄ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴏɴ ᴠᴏɪᴄᴇ ᴄᴀʟʟ 
 
 <p align="center">
-  <img src="https://telegra.ph/file/3aa55e7efe0fabf05da4e.jpg">
+  <img src="https://telegra.ph/file/e957bb7dd078ce75da865.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -29,15 +29,15 @@
 
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/S780821/XMARTY_MUSIC)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GUABAJA/-ll-ll-G-516_-_-ll-ll-)
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʀᴀɪʟᴡᴀʏ
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/S780821/Xmarty_Music&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_NAME,SUDO_USERS)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/GUABAJA/-ll-ll-G-516_-_-ll-ll-=API_ID,API_HASH,BOT_TOKEN,SESSION_NAME,SUDO_USERS)
 
 ### ᴘʏʀᴏɢʀᴀᴍ ꜱᴇꜱꜱɪᴏɴ
-Use [Repl Link](https://replit.com/@S780821/PyrogramSession) to get pyrogram string session
+Use [Repl Link](https://replit.com/GUABAJA/PyrogramSession) to get pyrogram string session
 
 # CREDITS
-- [Xmarty Salim](https://github.com/S780821) for Creating Repo
+- [GJ516](https://github.com/GUABAJA) for Creating Repo
 
-# .•♫•♬• ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ xᴍᴀʀᴛɪᴇs ʀᴇᴘᴏ •♫•♬•
+# .•♫•♬• ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ GJ516 REPO •♫•♬•
