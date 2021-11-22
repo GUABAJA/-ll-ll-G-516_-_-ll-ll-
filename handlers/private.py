@@ -11,7 +11,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""**ʜᴇʏ, I'm {bn} 🎵
 
-ɪ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜꜱɪᴄ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ'ꜱ ᴠᴏɪᴄᴇ ᴄᴀʟʟ. ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ [xᴍᴀʀᴛʏ ꜱᴀʟɪᴍ](https://t.me/Xmartperson).
+ɪ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜꜱɪᴄ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ'ꜱ ᴠᴏɪᴄᴇ ᴄᴀʟʟ. ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ [GJ516](https://t.me/export_gabber).
 
 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘʟᴀʏ ᴍᴜꜱɪᴄ ꜰʀᴇᴇʟʏ!**
         """,
@@ -19,17 +19,17 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 𝙎𝙊𝙐𝙍𝘾𝙀 𝘾𝙊𝘿𝙀 🛠", url="https://github.com/S780821/XMARTY_MUSIC")
+                        "🛠 𝙎𝙊𝙐𝙍𝘾𝙀 𝘾𝙊𝘿𝙀 🛠", url="https://github.com/GUABAJA/-ll-ll-G-516_-_-ll-ll-")
                   ],[
                     InlineKeyboardButton(
-                        "💬 𝙂𝙍𝙊𝙐𝙋", url="https://t.me/XMARTY_Support"
+                        "💬 𝙂𝙍𝙊𝙐𝙋", url="https://t.me/GJ516_SUPPORT"
                     ),
                     InlineKeyboardButton(
-                        "✨𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄 2✨", url="https://github.com/S780821/XMARTY_MUSIC_2"
+                        "✨𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄 2✨", url="https://github.com/GUABAJA/-ll-ll-G-516_-_-ll-ll-_2"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "𝙈𝘼𝙆𝙀 𝙐𝙍 𝙊𝙒𝙉 𝙄𝙁 𝙐 𝙒𝘼𝙉𝙏 𝘼𝙉𝙔 𝙃𝙀𝙇𝙋 𝙋𝙇𝙀𝘼𝙎𝙀 𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙈𝙔 𝘽𝙊𝙎𝙎 ", url="https://t.me/XMARTPERSON"
+                        "𝙈𝘼𝙆𝙀 𝙐𝙍 𝙊𝙒𝙉 𝙄𝙁 𝙐 𝙒𝘼𝙉𝙏 𝘼𝙉𝙔 𝙃𝙀𝙇𝙋 𝙋𝙇𝙀𝘼𝙎𝙀 𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙈𝙔 𝘽𝙊𝙎𝙎 ", url="https://t.me/@export_gabber"
                     )]
             ]
         ),
@@ -43,7 +43,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "⚡𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄⚡", url="https://github.com/S780821/XMARTY_MUSIC")
+                        "⚡𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄⚡", url="https://github.com/GUABAJA/-ll-ll-G-516_-_-ll-ll-")
                 ]
             ]
         )
