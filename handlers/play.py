@@ -100,7 +100,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Xmarty"
+        user.first_name = m"GJ"
     usar = user
     wew = usar.id
     try:
@@ -118,7 +118,7 @@ async def play(_, message: Message):
                 try:
                     await USER.join_chat(invitelink)
                     await USER.send_message(
-                        message.chat.id, "**ϰмαяτγ мυѕιϲ αѕѕιѕταиτ נοιиє∂ τнιѕ gяουρ ƒοя ρℓαγ мυѕιϲ🎵**")
+                        message.chat.id, "**GJ516 мυѕιϲ αѕѕιѕταиτ נοιиє∂ τнιѕ gяουρ ƒοя ρℓαγ мυѕιϲ🎵**")
 
                 except UserAlreadyParticipant:
                     pass
@@ -143,7 +143,7 @@ async def play(_, message: Message):
 
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://telegra.ph/file/caeb50039026a746e7252.jpg"
+        thumb_name = "https://telegra.ph/file/e957bb7dd078ce75da865.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 300)
         views = "Locally added"
@@ -153,7 +153,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                         text="𝘾𝙝𝙖𝙣𝙣𝙚𝙡 🔊",
-                        url="https://t.me/Xmarty_support")
+                        url="https://t.me/GJ516_support")
                    
                 ]
             ]
@@ -194,14 +194,14 @@ async def play(_, message: Message):
                             url=f"{url}"),
                         InlineKeyboardButton(
                             text="ՏႮᏢᏢϴᎡͲ ᏀᎡϴႮᏢ",
-                            url=f"https://t.me/Xmarty_Support")
+                            url=f"https://t.me/GJ516_Support")
 
                     ]
                 ]
             )
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://telegra.ph/file/638c20c44ca418c8b2178.jpg"
+            thumb_name = "https://telegra.ph/file/e957bb7dd078ce75da865.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -223,10 +223,10 @@ async def play(_, message: Message):
     else:
         if len(message.command) < 2:
             return await lel.edit("🧐 **𝙒𝙝𝙖𝙩'𝙨 𝙩𝙝𝙚 𝙨𝙤𝙣𝙜 𝙮𝙤𝙪 𝙬𝙖𝙣𝙩 𝙩𝙤 𝙥𝙡𝙖𝙮?**")
-        await lel.edit("🔎 **❤️ƒเɳ∂เɳɠ ƭɦε รσɳɠ❤️**")
+        await lel.edit("🔎 ƒเɳ∂เɳɠ ƭɦε รσɳɠ")
         query = message.text.split(None, 1)[1]
         # print(query)
-        await lel.edit(" **❤️ρɾσcεรรเɳɠ รσµɳ∂ร❤️**")
+        await lel.edit(" ρɾσcεรรเɳɠ รσµɳ∂ร*")
         try:
             results = YoutubeSearch(query, max_results=1).to_dict()
             url = f"https://youtube.com{results[0]['url_suffix']}"
